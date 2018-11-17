@@ -27,6 +27,8 @@ echo $white"-=====================Kalo Bingung Hub Gua-======================"
 echo $red"-=========================08878819132-========================="
 sleep 1
 clear
+sh Kaget.sh
+clear
 fi
 
 echo $cyan ""
