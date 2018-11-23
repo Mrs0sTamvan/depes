@@ -37,7 +37,7 @@ figlet -f standard "Kaget Kan"
 echo $red"-=========================BruteWebdav=========================-"
 echo $white"Author : T3RK3DJ03D_12"
 echo $white"Tools  : Brute Webdav"
-echo $white"Team   : Hallu Cyber Team And 2E4H"
+echo $white"Team   : Hallu Cyber Team And L4EFY"
 echo $white"pesan  : Ga tau Gua pusing Kentod"
 echo $red"-=========================BruteWebdav=========================-"
 
